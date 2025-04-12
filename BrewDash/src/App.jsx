@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import "./App.css";
-import Sidebar from "./Sidebar.jsx";
+import Sidebar from "./sidebar.jsx";
 import Dashboard from "./Dashboard.jsx";
 import Search from "./Search.jsx";
 import About from "./About.jsx";

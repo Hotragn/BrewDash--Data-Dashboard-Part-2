@@ -77,6 +77,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with **[Licecap]**
 
+
+# Try it now: Fingerprint Matcher App
+# Live Demo: [https://brewdash-omega.vercel.app/)</br>
 ---
 
 ## Notes

@@ -75,7 +75,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Hotragn/BrewDash--Data-Dashboard-Part-2/blob/main/recording-demop2.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-GIF created with **[your tool name here]**
+GIF created with **[Licecap]**
 
 ---
 
@@ -97,7 +97,7 @@ GIF created with **[your tool name here]**
 
     Copyright 2025 Hotragn Pettugani
 
-    Licensed under the MIT License, Version 2.0 (the "License");
+    Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 

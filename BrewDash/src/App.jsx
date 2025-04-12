@@ -2,11 +2,11 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import "./App.css";
-import Sidebar from "./Sidebar";
-import Dashboard from "./Dashboard";
-import Search from "./Search";
-import About from "./About";
-import DetailView from "./DetailView";
+import Sidebar from "./Sidebar.jsx";
+import Dashboard from "./Dashboard.jsx";
+import Search from "./Search.jsx";
+import About from "./About.jsx";
+import DetailView from "./DetailView.jsx";
 
 function App() {
   const [breweries, setBreweries] = useState([]);
